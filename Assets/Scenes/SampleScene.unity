@@ -1248,6 +1248,8 @@ MonoBehaviour:
   icon: {fileID: 279459677}
   clicksText: {fileID: 535362392}
   levelText: {fileID: 553964056}
+  goldUpgradeOrder:
+  - {fileID: 21300000, guid: 90ecb6f048c2d1340a0c16ae34a378d7, type: 3}
 --- !u!4 &1200366644
 Transform:
   m_ObjectHideFlags: 0
