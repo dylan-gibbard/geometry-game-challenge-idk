@@ -50,7 +50,7 @@ public class Wave : MonoBehaviour
         }
         
     }
-    public void wavelineupgrade()
+    public void waveLineUpgRade()
     {
         waveLine.transform.position -= new Vector3 (0, 10, 0);
     }
